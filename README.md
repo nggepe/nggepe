@@ -2,7 +2,5 @@
 
 - 🔭 I’m currently working as a freelance software engineer
 - 🌱 I’m currently addicted with js and dart
-- 💬 Ask me about ...
+- 💬 you can ask me anything, but I can't answer anything 😊
 - 📫 How to reach me: <a href="https://twitter.com/gepeee">twitter</a>
-- ⚡ Fun fact: ...
-
