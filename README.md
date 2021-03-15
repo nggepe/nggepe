@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a freelance software engineer
-- 🌱 I’m currently addicted with js and dart
+- 🔭 I’m currently working as a freelance software engineer since 2015 (I'm still a newbie)
+- 🌱 I’m currently addicted with js and dart (2015-2019 PHP)
 - 💬 you can ask me anything, but I can't answer anything 😊
 - 📫 How to reach me: <a href="https://twitter.com/gepeee">twitter</a>
 
