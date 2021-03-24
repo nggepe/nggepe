@@ -6,5 +6,7 @@
 - 📫 How to reach me: <a href="https://twitter.com/gepeee">twitter</a>
 
 ## My Stats
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nggepe&theme=tokyonight&count_private=true) -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nggepe&count_private=true&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nggepe&theme=tokyonight&count_private=true)
