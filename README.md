@@ -7,6 +7,7 @@
 
 ## My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nggepe&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nggepe&count_private=true&show_icons=true&theme=tokyonight) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nggepe&theme=tokyonight&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nggepe&theme=tokyonight&count_private=true) -->
+
