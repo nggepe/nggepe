@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nggepe&label=Profile%20views&color=0e19b4&style=plastic" alt="gilang pratama" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nggepe" alt="gilang pratama" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nggepe&theme=onedark" alt="gilang pratama" /></a> </p>
 
 
 
