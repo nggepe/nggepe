@@ -8,8 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nggepe&theme=onedark" alt="gilang pratama" /></a> </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=appleboy&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=appleboy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nggepe&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nggepe&theme=github)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nggepe&count_private=true&show_icons=true&theme=tokyonight)
 
