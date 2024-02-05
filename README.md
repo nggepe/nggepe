@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a freelance software engineer. Since 2013 till now I still a newbie
+- 🔭 I am a newbie who code by night, and code by day.
 - 👨‍👧 a husband of [@elcindizamzam](https://github.com/elcindizamzam)
 - 🌱 I’m currently addicted with js, typescript and dart (2015-2019 PHP, Visual Basic 2013) 😄
 - 💬 you can ask me anything, but I can't answer anything 😊
