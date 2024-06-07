@@ -2,7 +2,7 @@
 
 - 🔭 I am a newbie who code by night, and code by day.
 - 👨‍👧 a husband of [@elcindizamzam](https://github.com/elcindizamzam)
-- 🌱 I’m currently addicted with js, typescript and dart (2015-2019 PHP, Visual Basic 2013) 😄
+- 🌱 I’m currently addicted with js, typescript, python and dart (2015-2019 PHP, Visual Basic 2013) 😄
 - 💬 you can ask me anything, but I can't answer anything 😊
 - 📫 How to reach me: <a href="https://twitter.com/gepeee">twitter</a>
 
